@@ -1,0 +1,6 @@
+node_modules
+.env
+bot_sessions
+baileys.log
+queue.class.log
+core.class.log
